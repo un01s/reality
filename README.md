@@ -17,7 +17,7 @@ how to get the knowledge and how to know the reality?
 
 * 面对岔路纷繁的小径一一《天使的精确性》介绍之四
 
-* 让心灵自由飞翔一一《天使的精确性》介绍结束语
+* [让心灵自由飞翔一一《天使的精确性》介绍结束语](https://github.com/un01s/reality/blob/main/11.md)
 
 ## 参考书目
 
