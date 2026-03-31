@@ -9,7 +9,7 @@ how to get the knowledge and how to know the reality?
 
 2. [芝诺悖论简述 下](https://github.com/un01s/reality/blob/main/02.md)
 
-3. [人有先天知识吗？上]((https://github.com/un01s/reality/blob/main/03.md))
+3. [人有先天知识吗？上](https://github.com/un01s/reality/blob/main/03.md)
 
 4. 人有先天知识吗？下
 
