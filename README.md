@@ -5,7 +5,7 @@ how to get the knowledge and how to know the reality?
 
 华夏文摘上有[吴道平](http://hx.cnd.org/?s=%E5%90%B4%E9%81%93%E5%B9%B3)撰写的系列文章来介绍Egginton《天使的精确性》一书。这本书从哲学、科学和文学三个角度来阐述人类如何获得知识认识世界，而其中的三个主角就是哲学家康德、物理学家海森堡和作家博尔赫斯。
 
-* 芝诺悖论简述
+* [芝诺悖论简述](https://github.com/un01s/reality/blob/main/01.md)
 
 * 人有先天知识吗？
 
