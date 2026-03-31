@@ -11,7 +11,7 @@ how to get the knowledge and how to know the reality?
 
 3. [人有先天知识吗？上](https://github.com/un01s/reality/blob/main/03.md)
 
-4. 人有先天知识吗？下
+4. [人有先天知识吗？下](https://github.com/un01s/reality/blob/main/04.md)
 
 5. 抓不住的那一瞬间一一《天使的精确性》介绍之一 上 
 
