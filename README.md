@@ -37,3 +37,9 @@ how to get the knowledge and how to know the reality?
 
 * William Egginton, The Rigor of Angels: Borges, Heisenberg, Kant, and the Ultimate Nature of Reality, 2023 
 
+* [吴道平 华夏文摘](http://wu-daoping.hxwk.org)
+
+## 吴道平简介
+
+老三届，1968年10月18日被强制送到农村插队。八十年代初作为“文革”后的大学生选择出国。1985年七月年复旦大学硕士学位。1987年八月底到美国。
+
