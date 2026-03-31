@@ -15,21 +15,21 @@ how to get the knowledge and how to know the reality?
 
 5. [再谈“先天知识”](https://github.com/un01s/reality/blob/main/05.md)
 
-6. 抓不住的那一瞬间一一《天使的精确性》介绍之一 上 
+6. [抓不住的那一瞬间一一《天使的精确性》介绍之一 上](https://github.com/un01s/reality/blob/main/06.md)
 
-7. 抓不住的那一瞬间一一《天使的精确性》介绍之一 下 
+7. [抓不住的那一瞬间一一《天使的精确性》介绍之一 下](https://github.com/un01s/reality/blob/main/07.md) 
 
-8. 人神之别一一《天使的精确性》介绍之二 上
+8. [人神之别一一《天使的精确性》介绍之二 上](https://github.com/un01s/reality/blob/main/08.md)
 
-9. 人神之别一一《天使的精确性》介绍之二 下
+9. [人神之别一一《天使的精确性》介绍之二 下](https://github.com/un01s/reality/blob/main/09.md)
 
-10. 从那个不可思议的图书馆说起一一《天使的精确性》介绍之三 上
+10. [从那个不可思议的图书馆说起一一《天使的精确性》介绍之三 上](https://github.com/un01s/reality/blob/main/10.md)
 
-11. 从那个不可思议的图书馆说起一一《天使的精确性》介绍之三 下
+11. [从那个不可思议的图书馆说起一一《天使的精确性》介绍之三 下](https://github.com/un01s/reality/blob/main/11.md)
 
-12. 面对岔路纷繁的小径一一《天使的精确性》介绍之四 上
+12. [面对岔路纷繁的小径一一《天使的精确性》介绍之四 上](https://github.com/un01s/reality/blob/main/12.md)
 
-13. 面对岔路纷繁的小径一一《天使的精确性》介绍之四 下
+13. [面对岔路纷繁的小径一一《天使的精确性》介绍之四 下](https://github.com/un01s/reality/blob/main/13.md)
 
 14. [让心灵自由飞翔一一《天使的精确性》介绍结束语](https://github.com/un01s/reality/blob/main/14.md)
 
